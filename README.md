@@ -1,2 +1,2 @@
 # Asteroids
-A game made in pygame about an astronaut
+Asteroids is a game about a stranded astronaut trying to get home. 
