@@ -1,2 +1,5 @@
 # Asteroids
-Asteroids is a game about a stranded astronaut trying to get home. 
+A 2D shoot-em-up game built in pygame. 
+
+# Story 
+The game is about an astronaut trying to get home after a failed rocket launch. 
